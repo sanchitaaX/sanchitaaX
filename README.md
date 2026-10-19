@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Sanchita, a second-year Information Technology student at KKWIEER, passionate about technology and software development. I am building a strong foundation in Frontend Development, Data Structures & Algorithms, C++, Java, SQL, and Python, while exploring AI and Machine Learning. Through hackathons, competitions, and projects, I continuously enhance my technical, problem-solving, and project management skills to create practical, user-focused solutions.
+I’m Sanchita, a third-year Information Technology student at KKWIEER, passionate about technology and software development. I am building a strong foundation in Frontend Development, Data Structures & Algorithms, C++, Java, SQL, and Python, while exploring AI and Machine Learning. Through hackathons, competitions, and projects, I continuously enhance my technical, problem-solving, and project management skills to create practical, user-focused solutions.
 
 
 ## 🌐 Socials:
